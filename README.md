@@ -14,6 +14,3 @@ pip install -r requirements.txt
 # Run the stitching!
 python stitch.py <path to image directory or video files> --display --save
 ```
-
-## References
-[WillBrennan](https://github.com/WillBrennan/ImageStitching)
